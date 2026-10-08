@@ -13,7 +13,9 @@ SIXzero is a smart alarm clock powered by a XIAO esp32c3.
 
 
 
-**Photos BANK** :
+**Photos BANK:**
+
+
 *Overview Photo* 
 <img width="1920" height="770" alt="SIX-zero iso compo" src="https://github.com/user-attachments/assets/7c20677a-de6a-41d7-944c-e6ed4c31d144" />
 *Exploded View*
