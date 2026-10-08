@@ -14,6 +14,15 @@
 <img width="1049" height="729" alt="image" src="https://github.com/user-attachments/assets/4e6f20d9-b687-47fa-aca3-a1e04ea33c2f" />
 
 
+***Inspiration***
+I based this on 1970s computer terminals, the grey or cream colored ones with the screen leaning back over the keyboard. Mine sits at 60°, which is where the name comes from.
+**These are some of the inspo images** <img width="612" height="611" alt="image" src="https://github.com/user-attachments/assets/f61af6bb-1ffb-4334-b1de-c439f866731f" /> 
+<img width="1023" height="823" alt="image" src="https://github.com/user-attachments/assets/901af02c-38d8-464c-a21c-354eabaaa6a2" />
+
+
+
+
+
 
 **Photo BANK:**
 
