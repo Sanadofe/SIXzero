@@ -1,5 +1,7 @@
-***This is SIXzero's public repository. 
-SIXzero is a 60° wedge alarm clock with mechanical keys and a blue color display, inspired by 1970s tech.***
+***This is SIXzero's public repository.***
+
+
+***SIXzero is a 60° wedge alarm clock with mechanical keys and a blue color display, inspired by 1970s tech.***
 
 **SCHEMATIC** 
 <img width="1223" height="681" alt="image" src="https://github.com/user-attachments/assets/763af51c-6891-428f-a904-58aa312d7d97" />
